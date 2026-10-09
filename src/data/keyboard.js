@@ -1,0 +1,30 @@
+const keys = [
+  { key: "A", status: "" },
+  { key: "B", status: "" },
+  { key: "C", status: "" },
+  { key: "D", status: "" },
+  { key: "E", status: "" },
+  { key: "F", status: "" },
+  { key: "G", status: "" },
+  { key: "H", status: "" },
+  { key: "I", status: "" },
+  { key: "J", status: "" },
+  { key: "K", status: "" },
+  { key: "L", status: "" },
+  { key: "M", status: "" },
+  { key: "N", status: "" },
+  { key: "O", status: "" },
+  { key: "P", status: "" },
+  { key: "Q", status: "" },
+  { key: "R", status: "" },
+  { key: "S", status: "" },
+  { key: "T", status: "" },
+  { key: "U", status: "" },
+  { key: "V", status: "" },
+  { key: "W", status: "" },
+  { key: "X", status: "" },
+  { key: "Y", status: "" },
+  { key: "Z", status: "" }
+]
+
+export default keys
